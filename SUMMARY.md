@@ -8,4 +8,5 @@
    * Git
 * [Deploying Your App](deployment.md)
    * PAAS
+   * VM
 
