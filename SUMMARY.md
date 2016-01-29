@@ -8,6 +8,7 @@
    * PAAS
    * Hosted VM
 * Dev Tools
+   * Git and GitHub
 * Languages
    * HTML and CSS
 
