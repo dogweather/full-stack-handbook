@@ -1,6 +1,6 @@
 # Git and GitHub
 
-## How Git Work
+## How Git Works
 
 The #1, most important thing to know about git is **how it works**.
 
