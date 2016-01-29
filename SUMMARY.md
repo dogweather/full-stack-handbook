@@ -7,5 +7,4 @@
 * [Dev Tools](dev_tools.md)
    * [Git and GitHub](git_and_github.md)
 * [Languages](languages.md)
-* [Deploying Your App](deployment.md)
 
