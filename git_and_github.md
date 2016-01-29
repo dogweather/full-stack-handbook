@@ -12,3 +12,6 @@ If this makes perfect sense to you, then you can skip this section. Otherwise, k
 
 
 As Philip Nilsson writes, [learning to expertly use Git means learning how to manipulate that data structure](http://www.jayway.com/2013/03/03/git-is-a-purely-functional-data-structure/).
+
+
+## Essential Git Tools
