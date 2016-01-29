@@ -9,6 +9,6 @@
    * Hosted VM
 * [Dev Tools](dev_tools.md)
    * [Git and GitHub](git_and_github.md)
-* Languages
+* [Languages](languages.md)
    * HTML and CSS
 
