@@ -5,4 +5,5 @@
    * Setting up the Terminal
    * Setting up the Shell
 * Development Tools
+* Deployment Stories
 
