@@ -1,6 +1,6 @@
 # Git and GitHub
 
-## Git is a List
+## How Git Work
 
 The #1, most important thing to know about git is **how it works**.
 
