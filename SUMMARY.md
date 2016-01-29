@@ -8,6 +8,5 @@
    * [Git and GitHub](git_and_github.md)
 * [Languages](languages.md)
 * [Deploying Your App](deployment.md)
-   * [PAAS](paas.md)
    * [Hosted VM](hosted_vm.md)
 
