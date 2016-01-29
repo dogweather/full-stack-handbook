@@ -5,5 +5,5 @@
    * Setting up the Terminal
    * Setting up the Shell
 * [Development Tools](development_tools.md)
-* Deployment Stories
+* [Deployment Stories](deployment_stories.md)
 
