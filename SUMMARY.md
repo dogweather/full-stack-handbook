@@ -7,7 +7,6 @@
 * [Dev Tools](dev_tools.md)
    * [Git and GitHub](git_and_github.md)
 * [Languages](languages.md)
-   * [HTML and CSS](html_and_css.md)
    * [Ruby](ruby.md)
 * [Deploying Your App](deployment.md)
    * [PAAS](paas.md)
