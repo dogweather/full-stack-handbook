@@ -4,6 +4,6 @@
 * [The Development Environment](the_development_environment.md)
    * Setting up the Terminal
    * Setting up the Shell
-* Development Tools
+* [Development Tools](development_tools.md)
 * Deployment Stories
 
