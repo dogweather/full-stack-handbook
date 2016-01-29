@@ -8,7 +8,7 @@ Git is a linked list of commits. Here's a simple linked list:
 
 ![Linked list](http://goose.ycp.edu/~dhovemey/fall2011/cs201/lecture/figures/sll.png)
 
-If this makes perfect sense to you, then you can skip this section. Otherwise, keep reading; **do not** go on until you understand what this means.
+> If this makes perfect sense to you, then you can skip this section. Otherwise, keep reading; **do not** go on until you understand what this means.
 
 [TBD: show git commits as linked list in various forms]
 
