@@ -6,5 +6,5 @@
    * Setting up the Shell
 * [Development Tools](development_tools.md)
    * Git
-* [Deployment Your App](deployment_stories.md)
+* [Deploying Your App](deployment.md)
 
