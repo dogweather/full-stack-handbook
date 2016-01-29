@@ -6,10 +6,10 @@
    * [Set up the Shell](set_up_the_shell.md)
 * [Dev Tools](dev_tools.md)
    * [Git and GitHub](git_and_github.md)
-* [Deploying Your App](deployment.md)
-   * [PAAS](paas.md)
-   * [Hosted VM](hosted_vm.md)
 * [Languages](languages.md)
    * [HTML and CSS](html_and_css.md)
    * [Ruby](ruby.md)
+* [Deploying Your App](deployment.md)
+   * [PAAS](paas.md)
+   * [Hosted VM](hosted_vm.md)
 
