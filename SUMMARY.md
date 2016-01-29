@@ -7,7 +7,6 @@
 * [Dev Tools](dev_tools.md)
    * [Git and GitHub](git_and_github.md)
 * [Languages](languages.md)
-   * [Ruby](ruby.md)
 * [Deploying Your App](deployment.md)
    * [PAAS](paas.md)
    * [Hosted VM](hosted_vm.md)
