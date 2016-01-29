@@ -4,6 +4,7 @@
 * [The Development Environment](the_development_environment.md)
    * Setting up the Terminal
    * Setting up the Shell
+   * Set up Your Terminal
 * [Deploying Your App](deployment.md)
    * [PAAS](paas.md)
    * [Hosted VM](hosted_vm.md)
