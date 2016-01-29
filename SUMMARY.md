@@ -6,6 +6,7 @@
    * Setting up the Shell
 * [Deploying Your App](deployment.md)
    * PAAS
+   * Hosted VM
 * Dev Tools
 * Languages
    * HTML and CSS
