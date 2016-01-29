@@ -6,5 +6,6 @@
    * [Set up the Shell](set_up_the_shell.md)
 * [Dev Tools](dev_tools.md)
    * [Git and GitHub](git_and_github.md)
+   * A Good Text Editor
 * [Languages](languages.md)
 
