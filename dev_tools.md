@@ -24,3 +24,18 @@ As Philip Nilsson writes, [learning to expertly use Git means learning how to ma
 * [lol and lola aliases](http://blog.kfish.org/2010/04/git-lola.html)
 * gitsh
 * Git Desktop
+
+
+
+## A Good Text Editor
+
+
+### The VIM and Emacs Story
+
+[TBD]
+
+
+### The Super-Editors: Atom, Sublime Text, and Brackets
+
+[TBD]
+
