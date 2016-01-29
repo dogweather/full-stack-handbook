@@ -3,7 +3,6 @@
 * [Introduction](README.md)
 * [The Development Environment](the_development_environment.md)
 * [Dev Tools](dev_tools.md)
-   * [Git and GitHub](git_and_github.md)
    * [A Good Text Editor](a_good_text_editor.md)
 * [Languages](languages.md)
 
