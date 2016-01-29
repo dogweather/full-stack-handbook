@@ -11,5 +11,5 @@
    * [Git and GitHub](git_and_github.md)
 * [Languages](languages.md)
    * [HTML and CSS](html_and_css.md)
-   * Ruby
+   * [Ruby](ruby.md)
 
