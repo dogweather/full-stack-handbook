@@ -7,7 +7,7 @@
 * [Deploying Your App](deployment.md)
    * PAAS
    * Hosted VM
-* Dev Tools
+* [Dev Tools](dev_tools.md)
    * Git and GitHub
 * Languages
    * HTML and CSS
