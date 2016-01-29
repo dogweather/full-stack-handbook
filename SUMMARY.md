@@ -8,7 +8,7 @@
    * PAAS
    * Hosted VM
 * [Dev Tools](dev_tools.md)
-   * Git and GitHub
+   * [Git and GitHub](git_and_github.md)
 * Languages
    * HTML and CSS
 
