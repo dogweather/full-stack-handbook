@@ -4,7 +4,7 @@
 
 ### How Git Works
 
-**The #1, most important thing to know** about git is how it works.
+**The #1, most important thing to know about git is how it works.**
 
 Git is a linked list of commits. Here's a simple linked list:
 
