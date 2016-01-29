@@ -5,7 +5,7 @@
    * Setting up the Terminal
    * Setting up the Shell
 * [Deploying Your App](deployment.md)
-   * PAAS
+   * [PAAS](paas.md)
    * Hosted VM
 * [Dev Tools](dev_tools.md)
    * [Git and GitHub](git_and_github.md)
