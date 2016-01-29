@@ -37,5 +37,9 @@ As Philip Nilsson writes, [learning to expertly use Git means learning how to ma
 
 ### The Super-Editors: Atom, Sublime Text, and Brackets
 
-[TBD]
+### Atom
+
+**Recommended Packages**
+* terminal-plus
+
 
