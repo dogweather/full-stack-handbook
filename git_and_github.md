@@ -1,8 +1,10 @@
 # Git and GitHub
 
+## Git is a List
+
 The #1, most important thing to know about git is **how it works**.
 
-Git is a linked list of commits. Here's a basic linked list:
+Git is a linked list of commits. Here's a simple linked list:
 
 ![Linked list](http://goose.ycp.edu/~dhovemey/fall2011/cs201/lecture/figures/sll.png)
 
