@@ -15,3 +15,7 @@ As Philip Nilsson writes, [learning to expertly use Git means learning how to ma
 
 
 ## Essential Git Tools
+
+* [lol and lola aliases](http://blog.kfish.org/2010/04/git-lola.html)
+* gitsh
+* Git Desktop
