@@ -4,11 +4,11 @@
 ## Set up Your Terminal
 
 Here's the default Terminal appearance:
-![](terminal config - before.png)
+![Out-of-the-box Terminal appearance](terminal-config-before.png)
 
-Professional programmers don't use it that way, though. We customize the hell out of the terminal, making it more personally usable.
+Professional programmers don't use it like this, though. We customize the hell out of the terminal; everyone has their own idea of what's more readble.
 
-And here's what you might see a developer use in real life:
+Here's what you might see a developer use in real life:
 
 ![Terminal appearance after configuration](terminal-config-after.png)
 
@@ -21,6 +21,7 @@ Customizations that were applied:
 * Customized text in the window bar
 * Colorized output (part of *Set up the Shell*, below)
 * Unimportant information removed from the prompt (part of *Set up the Shell*, below)
+* Extra characters `/`, `@`, and `*` added to names in the directory listing (part of *Set up the Shell*, below)
 
 [TBD: "After, take 2": Screenshot of a typical highly customized terminal, via oh-my-zsh.]
 
