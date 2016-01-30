@@ -2,7 +2,7 @@
 
 ## Getting to the Documentation Quickly
 
-[TBD: Concentrate on Recognizing, not Memorizing]
+[TBD: The philosophy of concentrating on recognizing, not memorizing]
 
 * [TBD: Dash]
 * [TBD: A few notes about Stack Overflow]
