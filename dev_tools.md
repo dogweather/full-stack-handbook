@@ -8,6 +8,16 @@
 * [TBD: A few notes about Stack Overflow]
 * [TBD: man pages]
 
+
+## Network testing
+
+* Httpie
+* Curl
+* whois
+* dig
+* traceroute
+* ping
+
 ## Git and GitHub
 
 ### How Git Works
