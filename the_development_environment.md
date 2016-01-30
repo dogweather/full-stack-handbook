@@ -25,7 +25,7 @@ Customizations that were applied:
 [TBD: "After, take 2": Screenshot of a typical highly customized terminal, via oh-my-zsh.]
 
 
-## Set up the Shell
+## Set up your Shell
 
 [TBD: Common Aliases]
 
