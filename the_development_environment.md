@@ -15,7 +15,8 @@ And here's what you might see a developer use in real life:
 Customizations that were applied:
 
 * Font changed to [Adobe Source Code Pro](http://adobe-fonts.github.io/source-code-pro/)
-* Window set to a good default size, 90 columns x 35 rows.
+* Changed the default font size
+* Window set to a good default size, 90 columns x 35 rows
 * Light text on a dark background
 * Customized text in the window bar
 * Colorized output (part of *Set up the Shell*, below)
