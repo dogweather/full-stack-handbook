@@ -1,5 +1,12 @@
 # Dev Tools
 
+## Getting to the Documentation Quickly
+
+[TBD: Concentrate on Recognizing, not Memorizing]
+
+* [TBD: Dash]
+* [TBD: A few notes about Stack Overflow]
+
 ## Git and GitHub
 
 ### How Git Works
