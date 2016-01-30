@@ -8,15 +8,16 @@ Here's the default Terminal appearance:
 
 Professional programmers don't use it that way, though. We customize the hell out of the terminal, making it more personally usable.
 
-Here's a typical terminal appearance you'd see a developer have, with the minimal enhancements:
+And here's what you might see a developer use in real life:
 
 ![Terminal appearance after configuration](terminal-config-after.png)
 
-Customizations you can see above:
+Customizations that were applied:
 
-* New font: [Adobe Source Code Pro](http://adobe-fonts.github.io/source-code-pro/)
+* Font changed to [Adobe Source Code Pro](http://adobe-fonts.github.io/source-code-pro/)
 * Window set to a good default size, 90 columns x 35 rows.
 * Light text on a dark background
+* Customized text in the window bar
 * Colorized output (part of *Set up the Shell*, below)
 * Unimportant information removed from the prompt (part of *Set up the Shell*, below)
 
