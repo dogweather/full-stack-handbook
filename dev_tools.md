@@ -6,6 +6,7 @@
 
 * [TBD: Dash]
 * [TBD: A few notes about Stack Overflow]
+* [TBD: man pages]
 
 ## Git and GitHub
 
