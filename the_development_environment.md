@@ -3,10 +3,12 @@
 
 ## Set up Your Terminal
 
-[TBD: "Before": Screenshot of typical out-of-the-box terminal appearance]
+Here's the default Terminal appearance:
+![](terminal config - before.png)
 
+Professional programmers don't use it that way, though. We customize the hell out of the terminal, making it more personally usable.
 
-Here's a typical terminal as you'd see a developer use, with the minimal enhancements:
+Here's a typical terminal appearance you'd see a developer have, with the minimal enhancements:
 
 ![Terminal appearance after configuration](terminal-config-after.png)
 
