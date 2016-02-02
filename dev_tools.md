@@ -58,6 +58,8 @@ As Philip Nilsson writes, [learning to expertly use Git means learning how to ma
 ### Atom
 
 **Recommended Packages**
+* file-icons
+* git-projects
 * terminal-plus
-
+* highlight-selected
 
